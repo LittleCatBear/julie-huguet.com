@@ -1,23 +1,35 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno' 
-baseurl: '/jekyll-uno/'
+title: Julie Huguet
+description: 'Software Engineer'
+url: 'http://julie-huguet.com'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Julie Huguet'
+  email: j.huguet9@gmail.com
+  twitter_username: JHuguet87
+  #facebook_username: joshgerdes
+  github_username:  LittleCatBear
+  linkedin_username:  jhuguet
+  tumblr_username: ajourneytonewzealand
+
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
 
 # Build settings
 destination: _site
 paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 kramdown:
   # use Github Flavored Markdown
@@ -25,4 +37,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
+gems: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
