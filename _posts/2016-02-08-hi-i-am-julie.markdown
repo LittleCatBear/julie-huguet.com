@@ -9,7 +9,7 @@ I am a software engineer specialised in Rails development *working remotely* and
 **I also create websites for businesses various, like mine or [this one](http://trainerboard.io).**
 <br><br>
 For more details, see below and my [Github](https://github.com/LittleCatBear) or [Linkedin](https://www.linkedin.com/in/jhuguet) profile. Do you want to hire me? Do you have a website you'd like me to create? **[Send me a message at j.huguet9@gmail.com](mailto:j.huguet9@gmail.com) and let's chat :)**
-<br> <br>
+<br><br>
 ``` ruby
 BASIC_INFO:
 {
@@ -21,7 +21,7 @@ BASIC_INFO:
 }
 ```
 
-``` ruby
+```ruby
 HARD_SKILLS:
 {
   Git: 75,
@@ -36,13 +36,13 @@ HARD_SKILLS:
 }
 ```
 
-``` ruby
+```ruby
 WEAPONS_OF_CHOICE:
 [ "Jira", "Trello", "Jenkins", "Selenium", "Chef", "Postgres", "Scrum/kanban" ]
 
 ```
 
-``` ruby
+```ruby
 SOFT_SKILLS:
 {
   Cats_and_red_panda_lover: 100,
