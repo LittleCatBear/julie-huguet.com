@@ -4,9 +4,9 @@ date:   2016-08-13 02:04:23
 categories: [jekyll]
 tags: [about-me, developer, rails, freelance, webdevelopment]
 ---
-I am a software engineer specialised in Rails development *working remotely* and currently based in Wellington, NZ.
+I am a software engineer specialised in Rails development working remotely.
 <br><br>
-**I also create websites for businesses various, like mine or [this one](http://trainerboard.io).**
+**Current pet project: [Fluttery Book](https://flutterybook.com).**
 <br><br>
 For more details, see below and my [Github](https://github.com/LittleCatBear) or [Linkedin](https://www.linkedin.com/in/jhuguet) profile. Do you want to hire me? Do you have a website you'd like me to create? **[Send me a message at j.huguet9@gmail.com](mailto:j.huguet9@gmail.com) and let's chat :)**
 <br><br>
